@@ -2,6 +2,7 @@ require "fileutils"
 require "pathname"
 
 require_relative "./workspace"
+require_relative "./database"
 
 command = ARGV.shift
 
