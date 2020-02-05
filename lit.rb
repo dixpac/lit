@@ -1,5 +1,6 @@
 require "fileutils"
 require "pathname"
+require "byebug"
 
 require_relative "./workspace"
 require_relative "./database"
